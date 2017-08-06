@@ -1,3 +1,13 @@
-- Paso a Paso -
+Esto es una guia para complementar los videos del Curso Rápido de Ensamblador de Fernando (@BitVision) en Youtube.
+Además de los videos como tal, se enlaza y se comenta dpcumentación adicional para complementar lo enseñado durante cada capitulo.
 
-k
+# Capitulo 1 - Arquitectura Básica
+Enlace al vídeo: https://www.youtube.com/watch?v=EKcw1-mKBPc
+
+- Este cápitulo resume la arquitectura interna de un MSX1, es decir, los componentes electronicos más importantes que lo componen y como se comunican entre ellos.
+- Se adjunta un articulo de la revista Input MSX donde describe todo lo comentado, con algunas fotografías en color.
+
+
+
+
+
