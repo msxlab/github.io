@@ -5,7 +5,8 @@
 
 * Programación para MSX
     * [Ensamblador (ASM)](./msx-asm)
-    * [C](./msx-c)
+    * [Curso para iniciarse en ASM](./CursoASM)
+    * [C](./msx-c)
     * [MSX-BASIC](./msx-basic)
 
 * Zilog Z80 (CPU de MSX)
